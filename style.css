@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif, "Times New Roman";
+}
+
+h1, 
+.description {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+}
+
+/* Images */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
